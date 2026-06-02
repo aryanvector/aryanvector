@@ -3,17 +3,25 @@ class AryanSen:
     def __init__(self):
         self.role = "AI & ML Developer"
         self.education = "Integrated M.Tech CSE (AI) @ VIT Bhopal"
+
         self.focus = [
             "Generative AI",
             "Computer Vision",
             "RAG Applications",
             "Machine Learning"
         ]
-        self.current_goal = "Building practical AI products that solve real problems"
+
+        self.current_goal = (
+            "Building practical AI systems that solve real problems"
+        )
 
     def tech_stack(self):
         return {
-            "languages": ["Python", "SQL"],
+            "languages": [
+                "Python",
+                "SQL"
+            ],
+
             "ml_ai": [
                 "scikit-learn",
                 "TensorFlow",
@@ -21,6 +29,7 @@ class AryanSen:
                 "Pandas",
                 "NumPy"
             ],
+
             "tools": [
                 "Git",
                 "GitHub",
@@ -32,11 +41,19 @@ class AryanSen:
     def currently_learning(self):
         return [
             "Deep Learning",
-            "MLOps",
             "LLMs",
+            "MLOps",
             "Deployment"
         ]
 
-    def mission(self):
-        return "Learn fast. Build consistently. Ship useful AI systems."
+    def philosophy(self):
+        return (
+            "Learn fast. Build consistently. Ship useful things."
+        )
+
+
+while not success:
+    learn()
+    build()
+    improve()
 ```
