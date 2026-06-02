@@ -1,3 +1,18 @@
+<div align="center">
+
+```
+ █████╗ ██████╗ ██╗   ██╗ █████╗ ███╗   ██╗    ███████╗███████╗███╗   ██╗
+██╔══██╗██╔══██╗╚██╗ ██╔╝██╔══██╗████╗  ██║    ██╔════╝██╔════╝████╗  ██║
+███████║██████╔╝ ╚████╔╝ ███████║██╔██╗ ██║    ███████╗█████╗  ██╔██╗ ██║
+██╔══██║██╔══██╗  ╚██╔╝  ██╔══██║██║╚██╗██║    ╚════██║██╔══╝  ██║╚██╗██║
+██║  ██║██║  ██║   ██║   ██║  ██║██║ ╚████║    ███████║███████╗██║ ╚████║
+╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝    ╚══════╝╚══════╝╚═╝  ╚═══╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A960EE&center=true&vCenter=true&random=false&width=650&lines=Pre-Final+Year+student+M.Tech+CSE+(AI)+%40+VIT;AI%2FML+Engineer+%7C+Python+%7C+PyTorch+%7C+TensorFlow;Deep+Learning+%7C+NLP+%7C+Computer+Vision+%7C;Building+Real-World+AI+Systems+%26+LLM+Applications;Open+to+AI%2FML+Internships+%26+Research+Roles)](https://git.io/typing-svg)
+
+</div>
+
 # 💫 About Me:
 
 <table align="right" border="0" cellspacing="0" cellpadding="0">
@@ -5,7 +20,7 @@
   <tr><td align="center"><img src="https://miro.medium.com/1*63sGPbvLLpvlD16hG1bvmA.gif" alt="GIF 2" width="357" border="0"/><br/><br/><b>Deep Learning in Action</b></td></tr>
 </table>
 
-Hi 👋, I'm Aryan Sen<br><br>🚀 Pre-final year Integrated M.Tech student in CSE (AI) at VIT University, focused on building AI-powered applications using Python, Generative AI, Computer Vision, and Machine Learning.<br><br>I enjoy transforming ideas into practical AI systems through hands-on projects, experimentation, and open-source collaboration.<br><br> 💻 What I'm Building<br><br>* RAG-based AI applications<br>* Implementing Deep Learning in model traning <br>* Machine Learning projects with real-world use cases<br>* AI-powered tools using modern GenAI workflows<br><br> 🛠 Tech Stack<br><br> Languages<br><br>Python, SQL<br><br> AI & ML<br><br>Scikit-learn, TensorFlow, PyTorch, OpenCV<br><br> Data Science<br><br>Pandas, NumPy, Matplotlib<br><br> Tools & Platforms<br><br>Git, GitHub, Jupyter Notebook, VS Code<br><br> 📌 Current Focus<br><br>* Deep Learning<br>* Scalable AI systems<br>* Retrieval-Augmented Generation (RAG)<br>* Applied Machine Learning<br><br> 🤝 Open to Collaborate On<br><br>* AI/ML projects<br>* Open-source contributions<br>* Innovative AI-driven applications<br><br>📈 2026 Goals<br><br>* Build impactful AI projects<br>* Contribute consistently to open source<br>* Strengthen problem-solving and system design skills<br>* Grow as an AI engineer and builder<br><br>⚡ Beyond Tech<br><br>Drummer. Performer. Builder.<br><br>I once skipped a flight home to perform live with my band at my college fest.<br>
+Hi 👋, I'm Aryan Sen<br><br>🚀 Pre-final year Integrated M.Tech student in CSE (AI) at VIT University, focused on building AI-powered applications using Python, Generative AI, Computer Vision, and Machine Learning.<br><br>I enjoy transforming ideas into practical AI systems through hands-on projects, experimentation, and open-source collaboration.<br><br> 💻 What I'm Building<br><br>* RAG-based AI applications<br>* Computer Vision systems<br>* Machine Learning projects with real-world use cases<br>* AI-powered tools using modern GenAI workflows<br><br> 🛠 Tech Stack<br><br> Languages<br><br>Python, SQL, C++<br><br> AI & ML<br><br>Scikit-learn, TensorFlow, PyTorch, OpenCV<br><br> Data Science<br><br>Pandas, NumPy, Matplotlib<br><br> Tools & Platforms<br><br>Git, GitHub, Jupyter Notebook, VS Code<br><br> 📌 Current Focus<br><br>* Deep Learning<br>* Scalable AI systems<br>* Retrieval-Augmented Generation (RAG)<br>* Applied Machine Learning<br><br> 🤝 Open to Collaborate On<br><br>* AI/ML projects<br>* Open-source contributions<br>* Innovative AI-driven applications<br><br>📈 2026 Goals<br><br>* Build impactful AI projects<br>* Contribute consistently to open source<br>* Strengthen problem-solving and system design skills<br>* Grow as an AI engineer and builder<br><br>⚡ Beyond Tech<br><br>Drummer. Performer. Builder.<br><br>I once skipped a flight home to perform live with my band at my college fest.<br>
 
 <br clear="right"/>
 
